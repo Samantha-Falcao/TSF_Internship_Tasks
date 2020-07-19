@@ -1,5 +1,5 @@
 # TSF_Internship_Tasks
-This repository contains the Data Science tasks completed during the internship at The Sparks Foundation.
+This repository contains the tasks completed by me during the Data Science and Machine Learning internship at The Sparks Foundation.
 
 ### Q1. (To Explore Supervised Machine Learning)
 The motive of this task is to explore supervised Machine Learning using Linear Regression. The task is to predict the percentage of marks that a student is expected to
